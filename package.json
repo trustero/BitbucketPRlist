@@ -1,0 +1,16 @@
+{
+  "name": "bitbucketscript",
+  "version": "1.0.0",
+  "description": "Bitbucket PR script",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "node-fetch": "^3.3.1"
+  },
+  "type": "module"
+}
