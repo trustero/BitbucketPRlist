@@ -4,9 +4,9 @@ Requirements:
 - node.js
 
 if you do not have node.js installed, you can install it here:
-```
-[npm install -g npm](https://nodejs.org/en/download)
-```
+
+[Node](https://nodejs.org/en/download)
+
 
 ## Instructions
 1. open the `script.js` and edit the following variables:
