@@ -3,9 +3,9 @@ This script queries the BitBucket v2 api to generate a list of pull requests mad
 Requirements:
 - node.js
 
-if you do not have node.js installed, you can install it by running the following command:
+if you do not have node.js installed, you can install it here:
 ```
-npm install -g npm
+[npm install -g npm](https://nodejs.org/en/download)
 ```
 
 ## Instructions
